@@ -1,0 +1,809 @@
+body{
+	background-color: #2b2f3e;
+	font-family: 'Lato', sans-serif;
+	font-size: 22px;
+	color:#6d6d6d;
+}
+
+a{
+	color:#fff;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#fff;
+	text-decoration: none;
+}
+
+h1{
+
+	color:#fff;
+	font-size: 24px;
+	font-weight: 300;
+	text-align:center;
+	text-transform: uppercase;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+h2{
+	font-size: 22px;
+	font-weight: bold;
+	color:#6d6d6d;
+}
+
+h3{
+	font-size: 16px;
+}
+
+.clear{
+	clear:both;
+}
+
+.img-responsive{
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+.rounded{
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;	
+}
+
+#wrapper{
+	display: block;
+	margin:0 auto;
+	width: 760px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#top-bar{
+	position: relative;
+	background-color: #fb2d5c;
+	height: 45px;
+	padding-top: 27px;
+
+}
+
+#menu{
+	position:absolute;
+	margin-left: 23px;
+
+}
+
+#menu a{
+	margin-left:15px;
+}
+
+#menu-close{
+	
+}
+
+#options-bar{
+	background-color:#e2234f;
+	height: 38px;
+	text-align: center;
+	padding-top:12px;
+}
+
+#options-bar a:first-child{
+	margin-left: 0px;
+}
+
+#options-bar  a{
+	font-size: 18px;
+	font-weight: 300;
+	text-transform: uppercase;
+	margin-left: 24px;
+}
+
+#options-bar a.active{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	background-color:#f2f2f4;
+	border-radius: 5px;
+	color:#666666;
+	padding:5px;
+}
+
+#options-bar li.active a{
+	color:#666666!important;
+}
+
+
+#options-bar ul{
+	display: block;
+	margin:0 auto;
+	width:230px;
+	padding-top:15px;
+}
+
+.event-date{
+
+	height: 25px;
+	background-color: #e1e1e1;
+	width: auto;
+	padding:10px 15px;
+	
+}
+
+.date{
+	font-weight: 100;
+}
+
+#container{
+	position: relative;
+}
+
+#nav{
+	position: absolute;
+	background-color: #f2f2f4;
+	height: 100%;
+	width:250px;
+	z-index: 50;
+	display: none;
+}
+
+#nav li{
+	border-bottom: 1px solid #ececed;
+	padding-left: 23px;
+	padding-bottom:18px;
+	padding-top:18px;
+}
+
+#nav li span.nav-icon{
+	vertical-align: top;
+}
+
+#nav li a{
+	color:#555555;
+	font-size: 20px;
+	font-weight: 300;
+}
+
+
+
+#nav-genres{
+	position: absolute;
+	background-color: #f2f2f4;
+	height: 100%;
+	width:250px;
+	z-index: 50;
+	display: none;
+	right: 0;
+}
+
+#nav-genres li{
+	border-bottom: 1px solid #ececed;
+	padding-left: 23px;
+	padding-bottom:18px;
+	padding-top:18px;
+	font-weight: 300;
+}
+
+#nav-genres li span.nav-icon{
+	vertical-align: top;
+}
+
+#nav-genres li a{
+	color:#555555;
+	font-size: 20px;
+	font-weight: 300;
+}
+
+
+#search{
+	display:block;
+	background-color: #fff;
+	height: 53px;
+	padding-top: 11px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: auto;
+}
+
+
+#search_songs{
+	float:left;
+	background-color: #fff;
+	height: 53px;
+	padding-top: 11px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 638px;
+}
+
+
+#genres {
+	float: left;
+	background-color: #fff;
+	height: 53px;
+	padding-top: 11px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#search input[type='text'], #search_songs input[type='text']{
+	background-color: #f2f2f4;
+	height: 32px;
+	border-style:solid;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	padding:5px;
+	width: 665px;
+	font-weight: 300;
+	vertical-align: top;
+	border:none;
+	color:#949494;
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+}
+
+#search input[type='text']{
+	width: 645px;
+}
+
+#search_songs input[type='text']{
+	width: 570px;
+}
+
+
+#search .input-button button, #search_songs .input-button button{
+	vertical-align: top;
+	border-style:solid;
+	background-color: #f2f2f4;
+    -webkit-border-top-right-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	-moz-border-radius-bottomright: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border:0px solid;
+	height: 42px;
+	margin-left: -5px;
+	cursor: pointer;
+}
+
+#canvas-grid{
+	position: relative;
+	background-color: #fff;
+	min-height: 600px;
+}
+
+
+
+
+.friend, .album{
+	float:left;
+	height: 152px;
+	width: 152px;
+}
+
+.friend-photo, .album-photo{
+	position: relative;
+	width: auto;
+	height: 152px;
+	height:152px;
+}
+
+.friend-name, .album-name{
+	position: absolute;
+	width:100%;
+	height: 30px;
+	text-align: center;
+	bottom:0px;
+	background-color: rgba(0, 0, 0, 0.5);
+	padding-top:10px;
+
+}
+
+
+
+.friend-birthday-icon{
+	display: none;
+	position: absolute;
+	width:100%;
+	height: 100%;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.friend-birthday-icon img{
+	display: block;
+	margin: 0 auto;
+	padding-top: 45px
+}
+
+.birthday-date{
+	position:absolute;
+	float: right;
+	background-color: #ff295d;
+	color: #fff;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	margin-top: 5px;
+	margin-left: 115px;
+	font-size: 15px;
+	text-align: center;
+	padding:5px;
+	font-weight: 100;
+	
+}
+
+.album-name{
+	height: 50px;
+	font-size: 14px;
+	font-weight: 300;
+}
+
+.album-name h3{
+	font-weight: bold;
+}
+
+
+
+/*****************************************************************************/
+/*			GREET A FRIEND
+/*****************************************************************************/
+
+#profile-photo{
+	background-color: #f2f2f4;
+}
+
+#profile-photo img{
+	display: block;
+	margin:0 auto;
+	width:152px;
+}
+
+#profile-photo img{
+	display: block;
+	border-radius: 100%;
+	margin: 0 auto;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#profile-artists, #profile-genres{
+	float:left;
+	min-height: 150px;
+	margin-top: 40px;
+	width:314px;
+	padding-left: 44px;
+}
+
+
+
+#profile-artists h2, #profile-genres h2, #profile-message h2{
+	margin-bottom: 28px;
+}
+
+#profile-genres{
+	padding-right: 44px;
+	
+}
+
+#profile-message {
+	text-align: center;
+	padding-top: 40px;
+	height:350px;
+	font-weight: 300;
+}
+
+#profile-message p {
+	font-weight: 300;
+	font-size:22px;
+
+}
+
+#profile-artists ul li, #profile-genres ul li{
+	border-bottom: 1px solid #f0f0f0;
+	/*font-size: 1.84em;*/
+	font-weight: 300;
+	padding-bottom:12px;
+	padding-top:12px;
+	padding-left: 15px;
+	color:#6d6d6d;
+}
+
+.genre-link{
+	color:#6d6d6d!important;
+}
+
+#profile-button {
+	text-align: center;
+	display:block;
+	padding-bottom:40px;
+	margin-top:40px;
+	min-height: 60px;
+}
+
+
+#profile-button a{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	background-color: #0bd38a;
+	border-radius:5px;
+	color:#fff;
+	display: block;
+	/*font-size: 1.84em;*/
+	margin:0 auto;
+	padding:20px 0px;
+	width: 250px;
+	margin-top: 0px;
+}
+
+#profile-button a.small{
+	
+	width: 190px;
+
+}
+
+
+#profile-button a:hover{
+	background-color: #0bbf7d;
+}
+
+#compose-friend{
+	border-bottom: 1px solid #f0f0f0;
+	height: 60px;
+	background-color: #fff;
+	padding: 20px 0px;
+}
+
+
+#compose-friend h2{
+	font-size: 24px;
+	text-align: center;
+	margin-bottom: 10px;
+
+}
+
+
+#compose-friend h3{
+	font-size: 20px;
+	font-weight: 300;
+	text-align: center;
+}
+
+#compose-friend img, #compose-friend span{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 15px;
+}
+
+#compose-friend img, #compose-form-photo img{
+	display: inline-block;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius:100%;
+	width: 60px;
+	height: 60px;
+	margin-left: 25px;
+}
+
+#compose-song{
+	padding-top: 33px;
+	padding-left: 25px;
+}
+
+
+
+#compose-song-album, #compose-song-info{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#compose-song-album{
+	width: 155px;
+	margin-right: 33px;
+}
+
+#compose-song-album img{
+	max-width: 100%;
+	height: auto;
+}
+
+#compose-song-info{
+	width: 485px;
+}
+
+.song-title, .song-album{
+	color:#6d6d6d;
+}
+
+.song-title{
+	font-size: 22px;
+	font-weight: 400;
+}
+
+.song-album{
+	font-size: 20px;
+	font-weight: 300;
+
+}
+
+#compose-form{
+	padding-top: 35px;
+	padding-left: 0px;
+	position: relative;
+}
+
+#compose-form-photo img{
+	display: inline-block;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius:100%;
+	width: 60px;
+	height: 60px;
+	margin-left: 25px;
+}
+
+
+#compose-form-photo, #compose-form-text{
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+/*
+#compose-form-text:before {
+    border-bottom: 14px solid transparent;
+    border-right: 14px solid #fff;
+    border-top: 14px solid transparent;
+    content: "";
+    display: inline-block;
+    left: -14px;
+    position: relative;
+    top: 15px;
+}
+
+#compose-form-text:after{
+	border-bottom: 15px solid transparent;
+    border-right: 15px solid #eee;
+    border-top: 15px solid transparent;
+    content: "";
+    display: inline-block;
+    left: -15px;
+    position: relative;
+    top: 15px;
+}*/
+
+
+
+#compose-form-text {
+	margin-left:35px;
+    border:0px solid #d5d5d8;
+    min-height: 195px;
+    width:600px;
+
+}
+
+#compose-form-characters{
+	font-weight: 300;
+	color:#6d6d6d;
+}
+
+
+
+#compose-form-characters, #compose-form-sign{
+	width: 295px;
+	vertical-align: top;
+	display: inline-block;
+}
+
+#compose-form-sign{
+	text-align:  right;
+	font-style: italic;
+	font-weight: bold;
+	margin-left: 5px;
+
+}
+
+.sign{
+	display: block;
+	text-align: right;
+	font-weight: bold;
+}
+
+
+textarea{
+	width: 99%;
+	resize:none;
+	border:1px solid #d5d5d8;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius:5px;
+	padding:10px;
+	height: 195px;
+	font-family: 'Lato', sans-serif;
+	font-style: italic;
+	font-size: 22px;
+	color:#6d6d6d;
+	font-weight: 100;
+	margin-bottom: 15px;
+
+}
+
+ button[type='submit']#continue{
+	-webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  background: #0bd38a;
+  padding: 20px 0px;
+  text-decoration: none;
+  width: 190px;
+  -webkit-box-shadow: 0px;
+	-moz-box-shadow:    0px;
+	box-shadow:         0px;
+	border:none;
+
+}
+
+button[type='submit']#continue:hover{
+	background-color: #0bbf7d;
+}
+
+.alert-danger{
+	background-color: #fb2d5c;
+	color:#fff;
+	padding:10px;
+	margin-top: 20px;
+	font-weight: 100;
+	-webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+
+}
+
+#album-background{
+	position: relative;
+	margin-bottom: 20px;
+}
+#album-background img{
+	max-width: 100%;
+	height: auto;
+
+}
+
+#album-background-choose h3{
+	margin-bottom: 25px;
+	margin-top: 25px;
+
+
+}
+
+#album-background-choose{
+	margin:0 auto;
+	width:735px;
+	margin-left: 23px;
+}
+
+
+#album-background-choose h3{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#album-background-choose li{
+	display: inline-block;
+	margin-bottom: 13px;
+	margin-right: 10px;
+	opacity: 0.5;
+}
+
+
+#album-cover{
+	position:absolute;
+	top:65px;
+	left: 265px;
+	width: 230px;
+	height: 230px;
+}
+
+#album-playerr{
+	margin:0 auto;
+	width: 64px;
+	height: 64px;
+	top:145px;
+	left:350px;
+}
+
+
+#card-preview-photo{
+	left: 335px;
+	width: 90px;
+	margin-top:-45px;
+	position: absolute;
+}
+
+#card-preview-text{
+	margin: 0 auto;
+	width: 710px;
+	font-style: italic;
+	font-weight: 300;
+	margin-top: 55px;
+}
+
+/*****************************************************************************/
+/*			ACTIVITIES
+/*****************************************************************************/
+
+.activity-item{
+	border-bottom: 1px solid #f0f0f0;
+	height: 60px;
+	padding:15px; 
+	color:#6d6d6d;
+	
+}
+
+.unread{
+	background-color: #c7c3c3;
+}
+
+.activity-item a, .activity-item a:hover{
+	color:#6d6d6d !important;
+}
+
+.activity-picture, .activity-name, .activity-message, .activity-cover{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 10px;
+}
+
+.activity-picture, .activity-cover{
+	width: 55px;
+}
+
+.activity-name, .activity-message{
+	padding-top: 15px;
+}
+
+.activity-name{
+	width: 150px;
+}
+
+.activity-message{
+	width: 430px;
+	font-style: italic;
+	font-weight: 300 !important;
+}
+
+.notification{
+	display: block;
+	margin: 0 auto;
+	padding-top: 20px;
+	color:#666666;
+	font-size: 25px;
+	text-align: center;
+	font-weight: 300;
+}
+
+#messages{
+	position:absolute;
+	width: 300px;
+	font-weight: 300;
+	color:#fff;
+	right:10px;
+	text-align: right;
+
+}
+
+#messages img{
+	vertical-align: top;
+	margin-right: 5px;
+}

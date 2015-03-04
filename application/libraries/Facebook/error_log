@@ -1,0 +1,437 @@
+[17-Nov-2014 10:23:10 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/vendor/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 8
+[17-Nov-2014 10:29:03 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/vendor/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 8
+[17-Nov-2014 10:29:04 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/vendor/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 8
+[17-Nov-2014 10:29:10 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/vendor/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 8
+[17-Nov-2014 10:29:11 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/vendor/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 8
+[17-Nov-2014 10:29:13 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/vendor/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 8
+[17-Nov-2014 10:29:14 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/vendor/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 8
+[17-Nov-2014 10:29:50 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:29:52 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:34:35 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:35:18 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:35:22 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:43:00 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:43:16 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:43:22 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:48:47 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 21
+[17-Nov-2014 10:48:49 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 21
+[17-Nov-2014 10:48:56 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 21
+[17-Nov-2014 10:53:40 America/Denver] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 19
+[17-Nov-2014 10:53:42 America/Denver] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 19
+[17-Nov-2014 10:53:43 America/Denver] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 19
+[17-Nov-2014 10:53:43 America/Denver] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 19
+[17-Nov-2014 10:54:26 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:54:28 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:54:28 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:54:29 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:54:29 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:54:32 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:54:55 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:54:56 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 18
+[17-Nov-2014 10:55:38 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:55:39 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:55:40 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:55:50 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:55:51 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:55:52 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[17-Nov-2014 10:55:53 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[19-Nov-2014 09:05:17 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 17
+[19-Nov-2014 09:11:11 America/Denver] PHP Fatal error:  Call to undefined method Facebook::login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 21
+[19-Nov-2014 09:11:13 America/Denver] PHP Fatal error:  Call to undefined method Facebook::login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 21
+[19-Nov-2014 09:11:16 America/Denver] PHP Fatal error:  Call to undefined method Facebook::login_url() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 21
+[19-Nov-2014 09:18:35 America/Denver] PHP Fatal error:  Call to undefined function Facebook() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 19
+[19-Nov-2014 09:18:37 America/Denver] PHP Fatal error:  Call to undefined function Facebook() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 19
+[19-Nov-2014 09:18:38 America/Denver] PHP Fatal error:  Call to undefined function Facebook() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 19
+[19-Nov-2014 09:48:57 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 09:49:03 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 09:55:43 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 09:56:13 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 09:57:01 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 09:58:27 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 09:58:44 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 09:59:25 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 09:59:27 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 10:01:22 America/Denver] PHP Fatal error:  Class 'FacebookRequest' not found in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 58
+[19-Nov-2014 10:01:39 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 10:17:40 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 10:17:42 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 10:18:32 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 10:18:35 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 10:26:21 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookHttpable.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/facebook_package.php on line 13
+[19-Nov-2014 10:30:46 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookCanvasLoginHelper.php on line 33
+[19-Nov-2014 10:30:49 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookCanvasLoginHelper.php on line 33
+[19-Nov-2014 10:30:59 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookCanvasLoginHelper.php on line 33
+[19-Nov-2014 10:33:04 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:33:07 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:33:41 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:33:47 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:33:50 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:34:55 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:34:57 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:36:02 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:36:08 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:36:10 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:36:13 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:37:07 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:47:18 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSession' not found in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 176
+[19-Nov-2014 10:51:28 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 94
+[19-Nov-2014 10:51:30 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookSignedRequestFromInputHelper' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookCanvasLoginHelper.php on line 33
+[19-Nov-2014 10:57:48 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/home6/nassutti/public_html/popmeapp/application/libraries/facebook/HttpClients/FacebookHttpable.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/facebook_package.php on line 13
+[19-Nov-2014 10:58:12 America/Denver] PHP Fatal error:  Call to a member function listar_random() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 145
+[19-Nov-2014 10:59:21 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting catch (T_CATCH) in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 107
+[19-Nov-2014 10:59:22 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting catch (T_CATCH) in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 107
+[19-Nov-2014 10:59:23 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting catch (T_CATCH) in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 107
+[19-Nov-2014 11:00:20 America/Denver] PHP Fatal error:  Call to a member function listar_random() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 125
+[19-Nov-2014 11:00:22 America/Denver] PHP Fatal error:  Call to a member function listar_random() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 125
+[19-Nov-2014 11:03:41 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'An active access token must be used to query information about the current user.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(254): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(142): Facebook\FacebookRequest->execute()
+#2 [internal function]: Home->quitar_permisos()
+#3 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#5 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[19-Nov-2014 11:11:45 America/Denver] PHP Warning:  Unterminated comment starting line 91 in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 91
+[19-Nov-2014 11:11:45 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 92
+[19-Nov-2014 11:41:49 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 97
+[19-Nov-2014 11:49:05 America/Denver] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 127
+[19-Nov-2014 11:49:08 America/Denver] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 127
+[19-Nov-2014 11:49:10 America/Denver] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 127
+[19-Nov-2014 12:00:51 America/Denver] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 127
+[19-Nov-2014 12:04:43 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookSDKException' with message 'You must provide or set a default application id.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php:414
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRedirectLoginHelper.php(75): Facebook\FacebookSession::_getTargetAppId(NULL)
+#1 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(211): Facebook\FacebookRedirectLoginHelper->__construct('http://nassutti...')
+#2 [internal function]: Home->prueba()
+#3 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#5 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 414
+[19-Nov-2014 12:04:45 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookSDKException' with message 'You must provide or set a default application id.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php:414
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRedirectLoginHelper.php(75): Facebook\FacebookSession::_getTargetAppId(NULL)
+#1 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(211): Facebook\FacebookRedirectLoginHelper->__construct('http://nassutti...')
+#2 [internal function]: Home->prueba()
+#3 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#5 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 414
+[19-Nov-2014 12:05:13 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookSDKException' with message 'You must provide or set a default application id.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php:414
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRedirectLoginHelper.php(75): Facebook\FacebookSession::_getTargetAppId(NULL)
+#1 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(211): Facebook\FacebookRedirectLoginHelper->__construct('http://nassutti...')
+#2 [internal function]: Home->prueba()
+#3 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#5 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 414
+[19-Nov-2014 12:05:14 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookSDKException' with message 'You must provide or set a default application id.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php:414
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRedirectLoginHelper.php(75): Facebook\FacebookSession::_getTargetAppId(NULL)
+#1 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(211): Facebook\FacebookRedirectLoginHelper->__construct('http://nassutti...')
+#2 [internal function]: Home->prueba()
+#3 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#5 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 414
+[19-Nov-2014 12:05:40 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookSDKException' with message 'You must provide or set a default application id.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php:414
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRedirectLoginHelper.php(75): Facebook\FacebookSession::_getTargetAppId(NULL)
+#1 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(211): Facebook\FacebookRedirectLoginHelper->__construct('http://nassutti...')
+#2 [internal function]: Home->prueba()
+#3 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#5 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 414
+[19-Nov-2014 12:05:41 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookSDKException' with message 'You must provide or set a default application id.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php:414
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRedirectLoginHelper.php(75): Facebook\FacebookSession::_getTargetAppId(NULL)
+#1 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(211): Facebook\FacebookRedirectLoginHelper->__construct('http://nassutti...')
+#2 [internal function]: Home->prueba()
+#3 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#5 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 414
+[19-Nov-2014 12:08:50 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookSDKException' with message 'You must provide or set a default application id.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php:414
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRedirectLoginHelper.php(75): Facebook\FacebookSession::_getTargetAppId(NULL)
+#1 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(125): Facebook\FacebookRedirectLoginHelper->__construct('http://nassutti...')
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(46): Home->prueba()
+#3 [internal function]: Home->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 414
+[19-Nov-2014 12:08:51 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookSDKException' with message 'You must provide or set a default application id.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php:414
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRedirectLoginHelper.php(75): Facebook\FacebookSession::_getTargetAppId(NULL)
+#1 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(125): Facebook\FacebookRedirectLoginHelper->__construct('http://nassutti...')
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/home.php(46): Home->prueba()
+#3 [internal function]: Home->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 414
+[19-Nov-2014 12:34:55 America/Denver] PHP Fatal error:  Call to undefined function redirect() in /home6/nassutti/public_html/popmeapp/application/controllers/login.php on line 40
+[19-Nov-2014 12:34:56 America/Denver] PHP Fatal error:  Call to undefined function redirect() in /home6/nassutti/public_html/popmeapp/application/controllers/login.php on line 40
+[19-Nov-2014 12:35:15 America/Denver] PHP Fatal error:  Call to undefined function redirect() in /home6/nassutti/public_html/popmeapp/application/controllers/login.php on line 40
+[19-Nov-2014 12:35:17 America/Denver] PHP Fatal error:  Call to undefined function redirect() in /home6/nassutti/public_html/popmeapp/application/controllers/login.php on line 40
+[19-Nov-2014 12:37:27 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home6/nassutti/public_html/popmeapp/application/controllers/login.php on line 86
+[19-Nov-2014 12:38:08 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home6/nassutti/public_html/popmeapp/application/controllers/login.php on line 237
+[19-Nov-2014 12:38:56 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting '{' in /home6/nassutti/public_html/popmeapp/application/controllers/login.php on line 90
+[19-Nov-2014 12:51:13 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home6/nassutti/public_html/popmeapp/application/controllers/home.php on line 130
+[19-Nov-2014 12:56:22 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 12:59:01 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 13:02:03 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_loginurl() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 22
+[19-Nov-2014 13:02:04 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_loginurl() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 22
+[19-Nov-2014 13:03:30 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 24
+[19-Nov-2014 13:03:31 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 24
+[19-Nov-2014 13:03:33 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 24
+[19-Nov-2014 13:03:50 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 24
+[19-Nov-2014 13:03:54 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 24
+[19-Nov-2014 13:03:57 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 24
+[19-Nov-2014 13:06:16 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 13:06:18 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 13:06:19 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 13:06:52 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 13:06:54 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 13:06:57 America/Denver] PHP Fatal error:  Function name must be a string in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 24
+[19-Nov-2014 13:08:47 America/Denver] PHP Parse error:  syntax error, unexpected '/' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 27
+[19-Nov-2014 13:08:48 America/Denver] PHP Parse error:  syntax error, unexpected '/' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 27
+[19-Nov-2014 13:08:50 America/Denver] PHP Parse error:  syntax error, unexpected '/' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 27
+[19-Nov-2014 13:17:11 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 13:17:13 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 13:17:15 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 13:17:18 America/Denver] PHP Fatal error:  Class 'Facebook\FacebookCurlHttpClient' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php on line 154
+[19-Nov-2014 13:18:40 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 13:18:41 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 13:18:47 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 13:18:48 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 13:18:49 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 13:18:51 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 13:18:55 America/Denver] PHP Fatal error:  Class 'Facebook\Entities\AccessToken' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookSession.php on line 74
+[19-Nov-2014 13:24:08 America/Denver] PHP Fatal error:  Cannot use Facebook\HttpClients\GraphObject as GraphObject because the name is already in use in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 33
+[19-Nov-2014 13:24:09 America/Denver] PHP Fatal error:  Cannot use Facebook\HttpClients\GraphObject as GraphObject because the name is already in use in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 33
+[19-Nov-2014 13:25:21 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/Facebook/HttpClients/CurlHttpClient.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 12
+[19-Nov-2014 13:25:23 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/Facebook/HttpClients/CurlHttpClient.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 12
+[19-Nov-2014 13:25:55 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/HttpClients/CurlHttpClient.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 12
+[19-Nov-2014 13:25:56 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/facebook/HttpClients/CurlHttpClient.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 12
+[19-Nov-2014 13:26:49 America/Denver] PHP Fatal error:  Interface 'Facebook\HttpClients\FacebookHttpable' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/HttpClients/FacebookCurlHttpClient.php on line 33
+[19-Nov-2014 13:26:50 America/Denver] PHP Fatal error:  Interface 'Facebook\HttpClients\FacebookHttpable' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/HttpClients/FacebookCurlHttpClient.php on line 33
+[19-Nov-2014 13:28:31 America/Denver] PHP Fatal error:  Interface 'Facebook\HttpClients\FacebookHttpable' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/HttpClients/FacebookCurlHttpClient.php on line 33
+[19-Nov-2014 13:28:32 America/Denver] PHP Fatal error:  Interface 'Facebook\HttpClients\FacebookHttpable' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/HttpClients/FacebookCurlHttpClient.php on line 33
+[19-Nov-2014 13:30:52 America/Denver] PHP Fatal error:  Interface 'Facebook\HttpClients\FacebookHttpable' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/HttpClients/FacebookCurlHttpClient.php on line 33
+[19-Nov-2014 13:30:53 America/Denver] PHP Fatal error:  Interface 'Facebook\HttpClients\FacebookHttpable' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/HttpClients/FacebookCurlHttpClient.php on line 33
+[19-Nov-2014 13:33:41 America/Denver] PHP Fatal error:  Class 'Facebook\HttpClients\FacebookCurl' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/HttpClients/FacebookCurlHttpClient.php on line 90
+[19-Nov-2014 13:34:31 America/Denver] PHP Fatal error:  Class 'Facebook\HttpClients\FacebookCurl' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/HttpClients/FacebookCurlHttpClient.php on line 90
+[19-Nov-2014 13:34:33 America/Denver] PHP Fatal error:  Class 'Facebook\HttpClients\FacebookCurl' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/HttpClients/FacebookCurlHttpClient.php on line 90
+[19-Nov-2014 13:36:47 America/Denver] PHP Fatal error:  Class 'Facebook\GraphSessionInfo' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Entities/AccessToken.php on line 350
+[19-Nov-2014 13:36:53 America/Denver] PHP Fatal error:  Class 'Facebook\GraphSessionInfo' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Entities/AccessToken.php on line 350
+[19-Nov-2014 13:38:42 America/Denver] PHP Fatal error:  Class 'Facebook\GraphObject' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/GraphSessionInfo.php on line 33
+[19-Nov-2014 13:38:44 America/Denver] PHP Fatal error:  Class 'Facebook\GraphObject' not found in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/GraphSessionInfo.php on line 33
+[20-Nov-2014 07:42:50 America/Denver] PHP Fatal error:  Class 'FacebookRequest' not found in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 34
+[20-Nov-2014 07:42:57 America/Denver] PHP Fatal error:  Class 'FacebookRequest' not found in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 34
+[20-Nov-2014 07:43:00 America/Denver] PHP Fatal error:  Class 'FacebookRequest' not found in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 34
+[20-Nov-2014 07:49:32 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:49:34 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:49:35 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:49:36 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:49:36 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:49:36 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:49:37 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:49:37 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:49:38 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:49:38 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:49:47 America/Denver] PHP Parse error:  syntax error, unexpected '$' in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 31
+[20-Nov-2014 07:50:34 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'An active access token must be used to query information about the current user.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(31): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 07:51:14 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'An active access token must be used to query information about the current user.' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(31): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 08:34:21 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'Unknown path components: /user_friends' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(31): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 08:34:25 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'Unknown path components: /user_friends' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(31): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 08:39:12 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'Unknown path components: /user_friends' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(31): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 08:39:15 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'Unknown path components: /user_friends' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(31): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 08:41:24 America/Denver] PHP Fatal error:  Class 'FacebookRequest' not found in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 39
+[20-Nov-2014 08:41:38 America/Denver] PHP Fatal error:  Class 'FacebookRequest' not found in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 39
+[20-Nov-2014 08:54:10 America/Denver] PHP Fatal error:  Class 'FacebookRequest' not found in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 39
+[20-Nov-2014 08:54:56 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'Unknown path components: /user_friends' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(31): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 08:55:10 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'Unknown path components: /user_friends' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(31): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 08:56:12 America/Denver] PHP Fatal error:  Call to a member function get_login_url() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 26
+[20-Nov-2014 08:56:15 America/Denver] PHP Fatal error:  Call to a member function get_login_url() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 26
+[20-Nov-2014 08:56:30 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'Unknown path components: /user_friends' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(32): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 08:56:35 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'Unknown path components: /user_friends' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(32): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 08:56:49 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'Unknown path components: /user_friends' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(32): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 08:57:00 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message 'Unknown path components: /user_friends' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 400)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(128): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php(33): Facebook->get_friends()
+#3 [internal function]: Dashboard->index()
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[20-Nov-2014 09:16:41 America/Denver] PHP Warning:  Unterminated comment starting line 85 in /home6/nassutti/public_html/popmeapp/application/config/config.php on line 85
+[20-Nov-2014 09:50:49 America/Denver] PHP Fatal error:  Call to undefined method Facebook\FacebookRequest::getGraphObject() in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 154
+[20-Nov-2014 09:50:52 America/Denver] PHP Fatal error:  Call to undefined method Facebook\FacebookRequest::getGraphObject() in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 154
+[20-Nov-2014 09:52:06 America/Denver] PHP Fatal error:  Call to undefined method Facebook\FacebookRequest::getGraphObject() in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 154
+[20-Nov-2014 10:45:27 America/Denver] PHP Fatal error:  Call to undefined method Facebook\FacebookRequest::getGraphObject() in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php on line 154
+[20-Nov-2014 11:04:35 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:10:09 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:10:29 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:10:42 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:11:43 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:12:19 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:12:21 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:12:34 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:12:38 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:12:42 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:12:56 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:13:00 America/Denver] PHP Fatal error:  Call to undefined method Facebook::get_music() in /home6/nassutti/public_html/popmeapp/application/controllers/dashboard.php on line 37
+[20-Nov-2014 11:35:35 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home6/nassutti/public_html/popmeapp/application/views/friends_view.php on line 9
+[20-Nov-2014 11:35:37 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home6/nassutti/public_html/popmeapp/application/views/friends_view.php on line 9
+[20-Nov-2014 11:39:11 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home6/nassutti/public_html/popmeapp/application/views/friends_view.php on line 13
+[20-Nov-2014 11:39:50 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home6/nassutti/public_html/popmeapp/application/views/friends_view.php on line 13
+[20-Nov-2014 12:06:07 America/Denver] PHP Fatal error:  Cannot redeclare Friends::profile() in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 56
+[20-Nov-2014 12:06:09 America/Denver] PHP Fatal error:  Cannot redeclare Friends::profile() in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 56
+[20-Nov-2014 12:06:23 America/Denver] PHP Fatal error:  Cannot redeclare Friends::profile() in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 56
+[20-Nov-2014 12:06:32 America/Denver] PHP Fatal error:  Cannot redeclare Friends::profile() in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 56
+[20-Nov-2014 12:06:33 America/Denver] PHP Fatal error:  Cannot redeclare Friends::profile() in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 56
+[20-Nov-2014 12:12:50 America/Denver] PHP Fatal error:  Call to a member function get_friends() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 39
+[21-Nov-2014 04:20:34 America/Denver] PHP Parse error:  syntax error, unexpected '$pop' (T_VARIABLE), expecting function (T_FUNCTION) in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 4
+[21-Nov-2014 04:20:37 America/Denver] PHP Parse error:  syntax error, unexpected '$pop' (T_VARIABLE), expecting function (T_FUNCTION) in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 4
+[21-Nov-2014 04:20:38 America/Denver] PHP Parse error:  syntax error, unexpected '$pop' (T_VARIABLE), expecting function (T_FUNCTION) in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 4
+[21-Nov-2014 04:23:13 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 15
+[21-Nov-2014 04:23:16 America/Denver] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 15
+[21-Nov-2014 04:24:40 America/Denver] PHP Fatal error:  Call to a member function get_friends() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 23
+[21-Nov-2014 04:24:42 America/Denver] PHP Fatal error:  Call to a member function get_friends() on a non-object in /home6/nassutti/public_html/popmeapp/application/controllers/friends.php on line 23
+[21-Nov-2014 05:32:55 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message '(#803) Some of the aliases you requested do not exist: 7639591asda6983795' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 404)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(150): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/friends.php(40): Facebook->get_profile('7639591asda6983...')
+#3 [internal function]: Friends->greet_a_friend('7639591asda6983...')
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[21-Nov-2014 05:32:59 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message '(#803) Some of the aliases you requested do not exist: 7639591asda6983795' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 404)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(150): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/friends.php(40): Facebook->get_profile('7639591asda6983...')
+#3 [internal function]: Friends->greet_a_friend('7639591asda6983...')
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[21-Nov-2014 05:34:56 America/Denver] PHP Fatal error:  Uncaught exception 'Facebook\FacebookAuthorizationException' with message '(#803) Some of the aliases you requested do not exist: 1568089270123432493505' in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php:134
+Stack trace:
+#0 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequest.php(268): Facebook\FacebookRequestException::create('{"error":{"mess...', Object(stdClass), 404)
+#1 /home6/nassutti/public_html/popmeapp/application/libraries/facebook/Facebook.php(150): Facebook\FacebookRequest->execute()
+#2 /home6/nassutti/public_html/popmeapp/application/controllers/friends.php(40): Facebook->get_profile('156808927012343...')
+#3 [internal function]: Friends->greet_a_friend('156808927012343...')
+#4 /home6/nassutti/public_html/popmeapp/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home6/nassutti/public_html/popmeapp/index.php(202): require_once('/home6/nassutti...')
+#6 {main}
+  thrown in /home6/nassutti/public_html/popmeapp/application/libraries/facebook/FacebookRequestException.php on line 134
+[21-Nov-2014 07:00:45 America/Denver] PHP Parse error:  syntax error, unexpected '$ref' (T_VARIABLE) in /home6/nassutti/public_html/popmeapp/application/views/header.php on line 21
+[21-Nov-2014 07:00:51 America/Denver] PHP Parse error:  syntax error, unexpected '$ref' (T_VARIABLE) in /home6/nassutti/public_html/popmeapp/application/views/header.php on line 21
